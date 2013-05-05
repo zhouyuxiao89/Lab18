@@ -2,7 +2,6 @@ import java.util.Scanner;
 public class Dice {
   static int RollCount1 = 0;
   static int RollCount2 = 0;
-  static int RollCount = 0;
   public static int RollDice1(int DiceNumber,int Max)
   {
       int dice;
